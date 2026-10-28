@@ -1,0 +1,16 @@
+=== Network Reconnaissance Lab ===
+Scan started: 2026-10-28 00:55:16
+
+Target: localhost
+Resolved IP address: 127.0.0.1
+Hostname: localhost
+
+=== Local Port Check ===
+[CLOSED] Port 22 did not accept a connection.
+[CLOSED] Port 80 did not accept a connection.
+[CLOSED] Port 443 did not accept a connection.
+[CLOSED] Port 3000 did not accept a connection.
+[CLOSED] Port 5000 did not accept a connection.
+[CLOSED] Port 8000 did not accept a connection.
+
+Reconnaissance complete.
